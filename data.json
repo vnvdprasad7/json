@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Chitti",
+    "email": "chitti@example.com",
+    "age": 33,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Neelakantam",
+    "email": "neelakantams@example.com",
+    "age": 32,
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "name": "Prasad",
+    "email": "prasad@example.com",
+    "age": 22,
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Mahesh",
+    "email": "mahesh@example.com",
+    "age": 28,
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "name": "Rakesh",
+    "email": "rakesh@example.com",
+    "age": 34,
+    "status": "inactive"
+  }
+]
+
