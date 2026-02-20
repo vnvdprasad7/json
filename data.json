@@ -33,6 +33,13 @@
     "email": "rakesh@example.com",
     "age": 34,
     "status": "inactive"
+  },
+  {
+    "id": 6,
+    "name": "Balu",
+    "email": "balu@example.com",
+    "age": 35,
+    "status": "active"
   }
 ]
 
